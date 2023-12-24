@@ -1,3 +1,2 @@
-# HTML-Programming
-This repository is basically about Web page creation using HTML.<br>
-Author : Krishna 
+# HTML-CSS-JavaScript
+You will find Questions related to HTML, CSS, and JavaScript in this repository.
